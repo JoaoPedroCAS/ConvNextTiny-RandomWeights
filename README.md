@@ -23,22 +23,14 @@ The ConvNeXt-Tiny model is used to extract features from a dataset of texture im
     cd convnext-tiny-random-weights
     ```
 
-2. **Create a virtual environment and install dependencies:**
-
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-    pip install -r requirements.txt
-    ```
-
-3. **Required Libraries:**
+2. **Required Libraries:**
    - `torch`
    - `torchvision`
    - `numpy`
    - `scikit-learn`
    - `PIL`
    - `psutil`
-   
+
    ```bash
    pip install torch torchvision numpy scikit-learn pillow psutil
    ```
