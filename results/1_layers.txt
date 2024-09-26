@@ -1,0 +1,600 @@
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5369
+Recall: 0.5542
+Precision: 0.5552
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5239
+Recall: 0.5417
+Precision: 0.5436
+
+Camadas removidas: 24
+Accuracy: 0.5042
+F1-Score: 0.4876
+Recall: 0.5042
+Precision: 0.5149
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5238
+Recall: 0.5500
+Precision: 0.5320
+
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5329
+Recall: 0.5542
+Precision: 0.5484
+
+Camadas removidas: 24
+Accuracy: 0.5125
+F1-Score: 0.4906
+Recall: 0.5125
+Precision: 0.4965
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5330
+Recall: 0.5500
+Precision: 0.5442
+
+Camadas removidas: 24
+Accuracy: 0.5125
+F1-Score: 0.4953
+Recall: 0.5125
+Precision: 0.5156
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5088
+Recall: 0.5250
+Precision: 0.5453
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5282
+Recall: 0.5458
+Precision: 0.5334
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5146
+Recall: 0.5250
+Precision: 0.5456
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5291
+Recall: 0.5458
+Precision: 0.5510
+
+Camadas removidas: 24
+Accuracy: 0.5292
+F1-Score: 0.5182
+Recall: 0.5292
+Precision: 0.5341
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5100
+Recall: 0.5250
+Precision: 0.5401
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5046
+Recall: 0.5250
+Precision: 0.5124
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5271
+Recall: 0.5417
+Precision: 0.5479
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5159
+Recall: 0.5375
+Precision: 0.5353
+
+Camadas removidas: 24
+Accuracy: 0.5625
+F1-Score: 0.5451
+Recall: 0.5625
+Precision: 0.5553
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5038
+Recall: 0.5250
+Precision: 0.5346
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5059
+Recall: 0.5250
+Precision: 0.5190
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5056
+Recall: 0.5250
+Precision: 0.5239
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5302
+Recall: 0.5500
+Precision: 0.5530
+
+Camadas removidas: 24
+Accuracy: 0.4583
+F1-Score: 0.4486
+Recall: 0.4583
+Precision: 0.4685
+
+Camadas removidas: 24
+Accuracy: 0.4125
+F1-Score: 0.3863
+Recall: 0.4125
+Precision: 0.3925
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5207
+Recall: 0.5375
+Precision: 0.5442
+
+Camadas removidas: 24
+Accuracy: 0.4500
+F1-Score: 0.4329
+Recall: 0.4500
+Precision: 0.4506
+
+Camadas removidas: 24
+Accuracy: 0.4667
+F1-Score: 0.4620
+Recall: 0.4667
+Precision: 0.4911
+
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5340
+Recall: 0.5542
+Precision: 0.5565
+
+Camadas removidas: 24
+Accuracy: 0.4792
+F1-Score: 0.4558
+Recall: 0.4792
+Precision: 0.4693
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5293
+Recall: 0.5458
+Precision: 0.5415
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5306
+Recall: 0.5500
+Precision: 0.5415
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5245
+Recall: 0.5417
+Precision: 0.5396
+
+Camadas removidas: 24
+Accuracy: 0.4917
+F1-Score: 0.4838
+Recall: 0.4917
+Precision: 0.5007
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5293
+Recall: 0.5458
+Precision: 0.5469
+
+Camadas removidas: 24
+Accuracy: 0.4833
+F1-Score: 0.4656
+Recall: 0.4833
+Precision: 0.4820
+
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5384
+Recall: 0.5542
+Precision: 0.5522
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5336
+Recall: 0.5500
+Precision: 0.5461
+
+Camadas removidas: 24
+Accuracy: 0.5625
+F1-Score: 0.5452
+Recall: 0.5625
+Precision: 0.5573
+
+Camadas removidas: 24
+Accuracy: 0.5292
+F1-Score: 0.5152
+Recall: 0.5292
+Precision: 0.5310
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5140
+Recall: 0.5417
+Precision: 0.5206
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5210
+Recall: 0.5417
+Precision: 0.5297
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5289
+Recall: 0.5458
+Precision: 0.5439
+
+Camadas removidas: 24
+Accuracy: 0.4875
+F1-Score: 0.4866
+Recall: 0.4875
+Precision: 0.5014
+
+Camadas removidas: 24
+Accuracy: 0.5583
+F1-Score: 0.5479
+Recall: 0.5583
+Precision: 0.5639
+
+Camadas removidas: 24
+Accuracy: 0.5292
+F1-Score: 0.5142
+Recall: 0.5292
+Precision: 0.5489
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5165
+Recall: 0.5417
+Precision: 0.5449
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5233
+Recall: 0.5375
+Precision: 0.5331
+
+Camadas removidas: 24
+Accuracy: 0.4542
+F1-Score: 0.4408
+Recall: 0.4542
+Precision: 0.4640
+
+Camadas removidas: 24
+Accuracy: 0.5125
+F1-Score: 0.4932
+Recall: 0.5125
+Precision: 0.5107
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5059
+Recall: 0.5333
+Precision: 0.5280
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5207
+Recall: 0.5417
+Precision: 0.5400
+
+Camadas removidas: 24
+Accuracy: 0.4333
+F1-Score: 0.4176
+Recall: 0.4333
+Precision: 0.4318
+
+Camadas removidas: 24
+Accuracy: 0.4917
+F1-Score: 0.4769
+Recall: 0.4917
+Precision: 0.5053
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5293
+Recall: 0.5500
+Precision: 0.5440
+
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5276
+Recall: 0.5542
+Precision: 0.5508
+
+Camadas removidas: 24
+Accuracy: 0.5208
+F1-Score: 0.5081
+Recall: 0.5208
+Precision: 0.5196
+
+Camadas removidas: 24
+Accuracy: 0.5125
+F1-Score: 0.5056
+Recall: 0.5125
+Precision: 0.5163
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5078
+Recall: 0.5250
+Precision: 0.5188
+
+Camadas removidas: 24
+Accuracy: 0.4792
+F1-Score: 0.4691
+Recall: 0.4792
+Precision: 0.4863
+
+Camadas removidas: 24
+Accuracy: 0.4708
+F1-Score: 0.4624
+Recall: 0.4708
+Precision: 0.4860
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5182
+Recall: 0.5333
+Precision: 0.5360
+
+Camadas removidas: 24
+Accuracy: 0.5000
+F1-Score: 0.4869
+Recall: 0.5000
+Precision: 0.5080
+
+Camadas removidas: 24
+Accuracy: 0.5625
+F1-Score: 0.5475
+Recall: 0.5625
+Precision: 0.5587
+
+Camadas removidas: 24
+Accuracy: 0.4875
+F1-Score: 0.4756
+Recall: 0.4875
+Precision: 0.4896
+
+Camadas removidas: 24
+Accuracy: 0.4667
+F1-Score: 0.4645
+Recall: 0.4667
+Precision: 0.4844
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5113
+Recall: 0.5333
+Precision: 0.5326
+
+Camadas removidas: 24
+Accuracy: 0.4542
+F1-Score: 0.4373
+Recall: 0.4542
+Precision: 0.4554
+
+Camadas removidas: 24
+Accuracy: 0.5417
+F1-Score: 0.5216
+Recall: 0.5417
+Precision: 0.5477
+
+Camadas removidas: 24
+Accuracy: 0.5167
+F1-Score: 0.4920
+Recall: 0.5167
+Precision: 0.5151
+
+Camadas removidas: 24
+Accuracy: 0.5292
+F1-Score: 0.5194
+Recall: 0.5292
+Precision: 0.5280
+
+Camadas removidas: 24
+Accuracy: 0.5208
+F1-Score: 0.5014
+Recall: 0.5208
+Precision: 0.5198
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5382
+Recall: 0.5500
+Precision: 0.5466
+
+Camadas removidas: 24
+Accuracy: 0.5292
+F1-Score: 0.5101
+Recall: 0.5292
+Precision: 0.5278
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5144
+Recall: 0.5250
+Precision: 0.5227
+
+Camadas removidas: 24
+Accuracy: 0.5208
+F1-Score: 0.5039
+Recall: 0.5208
+Precision: 0.5222
+
+Camadas removidas: 24
+Accuracy: 0.4500
+F1-Score: 0.4404
+Recall: 0.4500
+Precision: 0.4589
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5124
+Recall: 0.5375
+Precision: 0.5405
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5315
+Recall: 0.5500
+Precision: 0.5454
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5313
+Recall: 0.5458
+Precision: 0.5543
+
+Camadas removidas: 24
+Accuracy: 0.5167
+F1-Score: 0.4969
+Recall: 0.5167
+Precision: 0.5124
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5358
+Recall: 0.5458
+Precision: 0.5606
+
+Camadas removidas: 24
+Accuracy: 0.5458
+F1-Score: 0.5267
+Recall: 0.5458
+Precision: 0.5401
+
+Camadas removidas: 24
+Accuracy: 0.5667
+F1-Score: 0.5449
+Recall: 0.5667
+Precision: 0.5714
+
+Camadas removidas: 24
+Accuracy: 0.4583
+F1-Score: 0.4350
+Recall: 0.4583
+Precision: 0.4553
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5126
+Recall: 0.5333
+Precision: 0.5408
+
+Camadas removidas: 24
+Accuracy: 0.5500
+F1-Score: 0.5379
+Recall: 0.5500
+Precision: 0.5467
+
+Camadas removidas: 24
+Accuracy: 0.5542
+F1-Score: 0.5386
+Recall: 0.5542
+Precision: 0.5490
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5229
+Recall: 0.5375
+Precision: 0.5309
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5144
+Recall: 0.5333
+Precision: 0.5243
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5117
+Recall: 0.5333
+Precision: 0.5297
+
+Camadas removidas: 24
+Accuracy: 0.4292
+F1-Score: 0.4115
+Recall: 0.4292
+Precision: 0.4414
+
+Camadas removidas: 24
+Accuracy: 0.5208
+F1-Score: 0.4959
+Recall: 0.5208
+Precision: 0.5095
+
+Camadas removidas: 24
+Accuracy: 0.4500
+F1-Score: 0.4455
+Recall: 0.4500
+Precision: 0.4628
+
+Camadas removidas: 24
+Accuracy: 0.4875
+F1-Score: 0.4766
+Recall: 0.4875
+Precision: 0.4980
+
+Camadas removidas: 24
+Accuracy: 0.4708
+F1-Score: 0.4607
+Recall: 0.4708
+Precision: 0.4735
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5198
+Recall: 0.5375
+Precision: 0.5370
+
+Camadas removidas: 24
+Accuracy: 0.4292
+F1-Score: 0.4180
+Recall: 0.4292
+Precision: 0.4417
+
+Camadas removidas: 24
+Accuracy: 0.5333
+F1-Score: 0.5151
+Recall: 0.5333
+Precision: 0.5264
+
+Camadas removidas: 24
+Accuracy: 0.5250
+F1-Score: 0.5061
+Recall: 0.5250
+Precision: 0.5220
+
+Camadas removidas: 24
+Accuracy: 0.5375
+F1-Score: 0.5144
+Recall: 0.5375
+Precision: 0.5238
+
